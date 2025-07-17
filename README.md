@@ -10,24 +10,26 @@ The solution consists of integrated components:
 - Real-time dashboard for monitoring workflow status and performance metrics
 
 ![Business Portal Dashboard](images/BusinessCenterPortal.png)
-![Workflow Management](images/PortalWorkFlowCheckpoints.png)
+![Workflow Management](images/PortalWorkflowCheckpoints.png)
 
 ## Key Features
 
 - **Dynamic Form Builder**: Create and customize forms with drag-and-drop functionality, supporting various field types, validation rules, and conditional logic.
-![Form Builder Interface](Images/PortalFormApplication.png)
+![Form Builder Interface](images/PortalFormApplication.png)
 
 - **Intelligent Approval Engine (審核引擎)**: Configure multi-step approval workflows with conditional routing based on request type, amount, department, or custom business rules.
-![Approval Engine Configuration](Images/PortalWorkflowCheckpoint.png)
+![Approval Engine Configuration](images/PortalWorkflowCheckpoint.png)
 
 - **Workflow Management**: Design and monitor end-to-end business processes with automated notifications, escalations, and SLA tracking.
-![Workflow Designer](Images/Workflow_Designer.png)
 
 - **Request Tracking and Status**: Provide real-time visibility into request progress with detailed audit trails and status updates for all stakeholders.
-![Request Tracking](Images/PortalAwaitingApproval.png)
-
-- **Dashboard and Analytics**: Generate comprehensive reports on workflow performance, approval times, bottlenecks, and departmental efficiency metrics.
-![Analytics Dashboard](Images/Analytics_Dashboard.png)
+  
+![Request Tracking](images/PortalAwaitingApproval.png)
+![Analytics Dashboard](images/PortalApprovalWorkflow.png)
+![Analytics Dashboard](images/PortalFormApproveView.png)
+![Analytics Dashboard](images/PortalFormApproveView2.png)
+![Analytics Dashboard](images/PortalFormApproveWorkflow.png)
+![Analytics Dashboard](images/PortalForms.png)
 
 
 ## Technical Implementation
