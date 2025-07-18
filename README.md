@@ -28,7 +28,7 @@ The solution consists of integrated components:
 ![Analytics Dashboard](images/PortalApprovalWorkflow.png)
 ![Analytics Dashboard](images/PortalFormApproveView.png)
 ![Analytics Dashboard](images/PortalFormApproveView2.png)
-![Analytics Dashboard](images/PortalFormApproveWorkflow.png)
+![Analytics Dashboard](images/PortalFormApproveViewWorkflow.png.png)
 ![Analytics Dashboard](images/PortalForms.png)
 
 
