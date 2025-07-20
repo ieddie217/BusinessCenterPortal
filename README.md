@@ -8,12 +8,10 @@ The solution consists of integrated components:
 - Dynamic form creation system that adapts to various business requirements
 - Multi-level approval engine with conditional routing
 - Real-time dashboard for monitoring workflow status
-- 
-
 
 ## Key Features
 
-- **Dynamic Form Builder**: Create and customize forms with drag-and-drop functionality, supporting various field types, validation rules, and conditional logic.
+- **Dynamic Form Builder**: Create and customize forms with drag-and-drop functionality, supporting various field types, validation rules, and conditional logic, all depending on business requirements.
 ![Analytics Dashboard](images/BusinessPortalForms.png)
 ![Analytics Dashboard](images/BusinessPortal2.png)
 ![Analytics Dashboard](images/BusinessPortal3.png)
