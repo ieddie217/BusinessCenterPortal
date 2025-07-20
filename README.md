@@ -5,12 +5,11 @@ The Business Center Portal is a comprehensive workflow management solution built
 
 The solution consists of integrated components:
 - A centralized management interface for administrators to configure forms, workflows, and approval chains
-- Dynamic form generation system that adapts to various business requirements
-- Multi-level approval engine with conditional routing and escalation capabilities
-- Real-time dashboard for monitoring workflow status and performance metrics
+- Dynamic form creation system that adapts to various business requirements
+- Multi-level approval engine with conditional routing
+- Real-time dashboard for monitoring workflow status
 
 ![Business Portal Dashboard](images/BusinessCenterPortal.png)
-![Workflow Management](images/PortalWorkflowCheckpoints.png)
 
 ## Key Features
 
