@@ -17,7 +17,6 @@ The solution consists of integrated components:
 ![Form Builder Interface](images/PortalFormApplication.png)
 
 - **Intelligent Approval Engine (審核引擎)**: Configure multi-step approval workflows with conditional routing based on request type, amount, department, or custom business rules.
-![Approval Engine Configuration](images/PortalWorkflowCheckpoint.png)
 
 - **Request Tracking and Status**: Provide real-time visibility into request progress with detailed audit trails and status updates for all stakeholders.
   
