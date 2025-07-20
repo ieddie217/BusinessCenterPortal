@@ -20,8 +20,6 @@ The solution consists of integrated components:
 - **Intelligent Approval Engine (審核引擎)**: Configure multi-step approval workflows with conditional routing based on request type, amount, department, or custom business rules.
 ![Approval Engine Configuration](images/PortalWorkflowCheckpoint.png)
 
-- **Workflow Management**: Design and monitor end-to-end business processes with automated notifications, escalations, and SLA tracking.
-
 - **Request Tracking and Status**: Provide real-time visibility into request progress with detailed audit trails and status updates for all stakeholders.
   
 ![Request Tracking](images/PortalAwaitingApproval.png)
