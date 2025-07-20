@@ -9,22 +9,16 @@ The solution consists of integrated components:
 - Multi-level approval engine with conditional routing
 - Real-time dashboard for monitoring workflow status
 
-![Business Portal Dashboard](images/BusinessCenterPortal.png)
 
 ## Key Features
 
 - **Dynamic Form Builder**: Create and customize forms with drag-and-drop functionality, supporting various field types, validation rules, and conditional logic.
-![Form Builder Interface](images/PortalFormApplication.png)
 
 - **Intelligent Approval Engine (審核引擎)**: Configure multi-step approval workflows with conditional routing based on request type, amount, department, or custom business rules.
 
 - **Request Tracking and Status**: Provide real-time visibility into request progress with detailed audit trails and status updates for all stakeholders.
   
-![Request Tracking](images/PortalAwaitingApproval.png)
-![Analytics Dashboard](images/PortalApprovalWorkflow.png)
-![Analytics Dashboard](images/PortalFormApproveView.png)
-![Analytics Dashboard](images/PortalFormApproveView2.png)
-![Analytics Dashboard](images/PortalFormApproveViewWorkflow.png)
+
 ![Analytics Dashboard](images/PortalForms.png)
 
 
