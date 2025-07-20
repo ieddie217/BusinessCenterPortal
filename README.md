@@ -8,7 +8,8 @@ The solution consists of integrated components:
 - Dynamic form creation system that adapts to various business requirements
 - Multi-level approval engine with conditional routing
 - Real-time dashboard for monitoring workflow status
-![Analytics Dashboard](images/Business1.png)
+- 
+![Analytics Dashboard](images/BusinessPortal1.png)
 
 
 ## Key Features
