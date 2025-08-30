@@ -7,7 +7,7 @@ The solution consists of integrated components:
 - A centralized management interface for administrators to configure forms, workflows, and approval chains
 - Dynamic form creation system that adapts to various business requirements
 - Multi-level approval engine with conditional routing
-- Real-time dashboard for monitoring workflow status
+- Real-time dashboard for monitoring workflow statuses
 
 ## Key Features
 
