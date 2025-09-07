@@ -1,7 +1,7 @@
 # Business Center Portal (業務中台)
 
 ## Project Overview
-The Business Center Portal is a comprehensive workflow management solution built on Microsoft PowerPlatform (PowerApps, Power Automate, Dataverse). This application serves as a centralized hub for business process automation, enabling organizations to create custom forms, manage complex approval workflows, and streamline operational procedures across departments.
+The Business Center Portal is a comprehensive workflow management solution built on Microsoft PowerPlatform (PowerApps, Power Automate, Dataverse). This application serves as a centralized hub for business process automation, enabling organizations to create custom forms, manage complex approval workflows, and streamline operational procedures across departments. 
 
 The solution consists of integrated components:
 - A centralized management interface for administrators to configure forms, workflows, and approval chains
